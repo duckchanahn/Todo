@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="userName">사용자이름</string>
+    <string name="Time">Time</string>
+    <string name="Todo">To do</string>
+    <string name="Check">Check</string>
+
+    <string name="addCalender">일정추가</string>
+    <string name="removeAllCalender">일정초기화</string>
+    <string name="removeCalender">일정삭제</string>
+    <string name="changeCalender">일정변경</string>
+    <string name="addCalenderHint">일정 내용을 입력해주세요</string>
+
+    <string name="removeCalenderText">일정을 삭제하시겠습니까?</string>
+
+    <string name="startTime_addCalender">시작시간</string>
+    <string name="endTime_addCalender">종료시간</string>
+    <string name="desc_addCalender">설명</string>
+    <string name="add_addCalender">추가</string>
+    <string name="cancel_addCalender">취소</string>
+
+</resources>
